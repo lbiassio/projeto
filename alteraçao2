@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Colegio Estadual Pedro Marcondes Ribas </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <img id="banner" src="banner.jpg">
+
+       <div class="principal">
+    <h1>CEPEMAR</h1>
+
+    <p>Localizado no paraná em  ventania  no <strong>Barro Preto</strong> ,colegio CEPEMAR um dos melhores colegios do ensina medio e fundamental da região. 
+        na rua avinida do cerne 1687, o colegio foi fundado em abril de 1993</p>
+
+    <p id="missao"><em>Nossa missão é: <strong>"Proporcionar uma educação melhor para os nossos alunos"</strong>.</em></p>
+
+    <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da educação. 
+    O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos alunos.</p>
+</div>
+<div class="beneficios">
+    <h2>Benefícios</h2>
+
+    <ul>
+        <li class="itens">Atendimento aos Clientes</li>
+        <li class="itens">Espaço diferenciado</li>
+        <li class="itens">Localização</li>
+        <li class="itens">Profissionais Qualificados</li>
+    </ul>
+
+    <img src="beneficios.jpg" class="imagembeneficios">
+</div>
